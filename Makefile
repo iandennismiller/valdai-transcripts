@@ -1,0 +1,2 @@
+extract:
+	bin/extract.sh
