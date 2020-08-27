@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="22px" viewBox="0 0 26 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="File" transform="translate(0.000000, -4.000000)" fill="#606778">
+            <path d="M1.99700466,4 C0.89408944,4 0,4.88967395 0,5.991155 L0,24.008845 C0,25.1085295 0.894978851,26 1.99700466,26 L24.0029953,26 C25.1059106,26 26,25.1103261 26,24.008845 L26,5.991155 C26,4.89147046 25.1050211,4 24.0029953,4 L1.99700466,4 Z M2.50083613,6 C2.22423198,6 2,6.22758651 2,6.50020972 L2,23.4997903 C2,23.7760485 2.21774173,24 2.50083613,24 L23.4991639,24 C23.775768,24 24,23.7724135 24,23.4997903 L24,6.50020972 C24,6.22395152 23.7822583,6 23.4991639,6 L2.50083613,6 Z" id="Icon,-Video"></path>
+            <rect id="Rectangle-56" x="4" y="9" width="4" height="2"></rect>
+            <rect id="Rectangle-57" x="4" y="14" width="18" height="2"></rect>
+            <rect id="Rectangle-58" x="4" y="19" width="18" height="2"></rect>
+        </g>
+    </g>
+</svg>
