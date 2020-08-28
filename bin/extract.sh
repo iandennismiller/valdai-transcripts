@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WGET_CMD="wget --mirror --convert-links --adjust-extension --page-requisites --no-parent --wait=2 -o ./var/log -P var/extract"
+WGET_CMD="wget --no-if-modified-since --no-clobber --mirror --convert-links --adjust-extension --page-requisites --no-parent --wait=2 -o ./var/log -P var/extract"
 
 URL_LIST=$(cat <<EOF
 http://en.kremlin.ru/events/president/news/34018
