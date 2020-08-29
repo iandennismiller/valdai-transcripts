@@ -1,3 +1,20 @@
+# Kremlin - President Mirror
+
+- http://en.kremlin.ru/about/copyrights
+
+> Using Website Content
+
+> All materials from the Russian President’s website may be reproduced in any media outlets, on Internet servers or on any other information supports without restriction on the amount of material or time of publication.
+
+> This authorization covers equally newspapers, magazines, radio stations, TV channels and Internet websites and pages.
+
+> The only condition is that any reproduction or broadcasting of the website’s materials must contain a reference to the original source. No prior approval from the Presidential Press and Information Office is required for reprinting information from the website.
+
+> All content on this site is licensed under Creative Commons Attribution 4.0 International.
+
+> The present rules for using materials from this website do not apply to RIA Novosti photographs that MIA Russia Today is the copyright holder of, or to photographs the TASS News Agency is the copyright holder of, when such photographs are posted on the www.kremlin.ru website with an indication of the agency and author.
+
+## Specific Interest
 
 - https://en.wikipedia.org/wiki/Kremlin.ru
 - https://en.wikipedia.org/wiki/Valdai_Discussion_Club
