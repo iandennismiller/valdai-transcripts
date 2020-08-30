@@ -22,5 +22,5 @@ EOF
 for URL in $URL_LIST
 do
     echo "$WGET_CMD $URL"
-    $WGET_CMD "$URL"
+    # $WGET_CMD "$URL"
 done
